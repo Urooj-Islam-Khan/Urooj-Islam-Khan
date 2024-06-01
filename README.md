@@ -1,3 +1,5 @@
+![logo](https://github.com/Urooj-Islam-Khan/Urooj-Islam-Khan/blob/main/github%20banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Urooj Islam Khan</h1>
 <h3 align="center">A passionate frontend developer and UI/Ux Designer from Pakistan</h3>
 
