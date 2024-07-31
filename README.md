@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://thecodingroom1.blogspot.com/](https://thecodingroom1.blogspot.com/)
 
-- 💬 Ask me about **Skills I have like Frontend Development**
+- 💬 Ask me about **Skills I have like Frontend Development and UI Designs**
 
 - 📫 How to reach me **uroojislamkhan124@gmail.com**
 
