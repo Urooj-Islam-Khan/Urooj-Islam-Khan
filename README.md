@@ -1,7 +1,7 @@
 ![logo](https://github.com/Urooj-Islam-Khan/Urooj-Islam-Khan/blob/main/Githun_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Urooj Islam Khan</h1>
-<h3 align="center">A passionate frontend developer and UI/Ux Designer from Pakistan</h3>
+<h3 align="center">A passionate Frontend Website and Mobile Developer and UI/Ux Designer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952ns71ihskdryce4w1ktk8z2jc0h6okn3pj21yvlyc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
