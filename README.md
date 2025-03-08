@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urooj-islam-khan&label=Profile%20views&color=0e75b6&style=flat" alt="urooj-islam-khan" /> </p>
 
-- 🌱 I’m currently learning **Mobile Application DEVELOPMENT**
+- 🌱 I’m currently learning **Mobile Application Development**
 
 - 📝 I regularly write articles on [https://thecodingroom1.blogspot.com/](https://thecodingroom1.blogspot.com/)
 
