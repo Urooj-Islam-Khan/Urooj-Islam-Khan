@@ -22,9 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/urooj islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urooj islam" height="30" width="40" /></a>
-<a href="https://fb.com/uroojislam124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uroojislam124" height="30" width="40" /></a>
-<a href="https://instagram.com/the_urooj_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_urooj_islam" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/urooj islam](https://www.linkedin.com/in/urooj-islam-734488255/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urooj islam" height="30" width="40" /></a>
 <a href="/https://thecodingroom1.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://thecodingroom1.blogspot.com/" height="30" width="40" /></a>
 </p>
 
