@@ -1,39 +1,134 @@
-![logo](https://github.com/Urooj-Islam-Khan/Urooj-Islam-Khan/blob/main/Githun_Banner.png)
-
 <h1 align="center">Hi 👋, I'm Urooj Islam Khan</h1>
-<h3 align="center">A passionate Full Stack Website Developer, Mobile and Desktop Application Developer, Python and Java Developer, and UI/UX Designer</h3>
+<h3 align="center">AI & Full Stack Developer | Core Java & Python | UI/UX Designer 💻</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Urooj-Islam-Khan&label=Profile%20views&color=0e75b6&style=flat" height="25" width="130" alt="urooj-islam-khan" />
+ <!-- <a href="https://www.buymeacoffee.com/urooj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="Buy Me a Coffee" /></a> -->
+</div>
 
+<div align="center">
+  <a href="https://u8views.com/github/Urooj-Islam-Khan"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
+</div>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952ns71ihskdryce4w1ktk8z2jc0h6okn3pj21yvlyc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=urooj-islam-khan&label=Profile%20views&color=0e75b6&style=flat" alt="urooj-islam-khan" /> </p>
+## 👨‍💻 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D95?style=for-the-badge&logoColor=white)](https://www.uroojsportfolio.netlify.app)
 
-- 🌱 I’m currently learning **MERN STACK Development**
+<br>
+I am a passionate **AI & Full Stack Developer** with 2+ years of experience in **Frontend and Backend development**, UI/UX design, and AI/ML projects.  
+Currently, I am **advancing my expertise in MERN stack** and AI-powered solutions using Python (LLMs, RAG, LangChain).  
 
-- 📝 I regularly write articles on [https://thecodingroom1.blogspot.com/](https://thecodingroom1.blogspot.com/)
+I work as a **Web Development & Core Java Trainer** and **Junior Full Stack Developer**, while leading a freelancing team, delivering **scalable, real-world tech solutions**.
 
-- 💬 Ask me about **Skills I have like Website Development and UI Designs**
+---
+## 🛠 Skills & Tools
 
-- 📫 How to reach me **uroojislamkhan124@gmail.com**
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/urooj-islam-734488255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/urooj-islam-734488255/" height="30" width="40" /></a>
-<a href="https://thecodingroom1.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://thecodingroom1.blogspot.com/" height="30" width="40" /></a>
+### Backend & Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### AI & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logoColor=white)
+
+### Tools & UI/UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+<!--
+## 🚀 Featured Projects
+
+### 1. [E-Commerce Website](https://github.com/Urooj-Islam-Khan)
+- Fully responsive platform with **admin dashboard**, category-wise products, and add-to-cart system.
+- Backend implemented using **PHP PDO (OOP)**.
+- ![E-Commerce Screenshot](https://via.placeholder.com/300x180.png?text=E-Commerce+Project)
+
+### 2. [Personal Portfolio Website](https://www.uroojsportfolio.netlify.app)
+- Responsive portfolio with **theme toggle, animations, and project filter features**.
+- Built with **HTML, CSS, JavaScript, Bootstrap, React.js**.
+- ![Portfolio Screenshot](https://via.placeholder.com/300x180.png?text=Portfolio+Project)
+
+### 3. [Car Showroom Management System](https://github.com/Urooj-Islam-Khan)
+- **Java Swing desktop app** with CRUD operations using JDBC.
+- Efficiently manages car showroom data with a dashboard interface.
+- ![Car Showroom Screenshot](https://via.placeholder.com/300x180.png?text=Car+Showroom+App)
+
+### 4. [Symptom Predictor (AI/ML Project)](https://github.com/Urooj-Islam-Khan)
+- Disease prediction system using **Python, Scikit-learn, Pandas, Streamlit**.
+- Implements ML models for accurate symptom prediction.
+- ![Symptom Predictor Screenshot](https://via.placeholder.com/300x180.png?text=Symptom+Predictor)
+
+### 5. [AI-Powered Chatbot (In Progress)](https://github.com/Urooj-Islam-Khan)
+- LLMs, LangChain, RAG, ChromaDB for contextual AI responses.
+- **React frontend + FastAPI backend** for smooth user interaction.
+- ![Chatbot Screenshot](https://via.placeholder.com/300x180.png?text=AI+Chatbot)
+
+---
+-->
+
+## 💼 Experience
+
+**IT Trainer – PITP, MUET (Sep 2025 – Present)**  
+- Conducted hands-on training on **modern IT skills**, guided final projects, and delivered feedback to students.  
+
+**Junior Web Developer & Core Java Trainer – Gexton Education (Jul 2025 – Present)**  
+- Teach Full Stack, Java, Python, C++, and Frontend development.  
+- Develop responsive websites using **HTML, CSS, JavaScript, PHP (OOP)**.  
+
+**Intern – Gexton Education (Apr 2025 – Jun 2025)**  
+- Backend development using **PHP PDO & Laravel**.  
+- Created coding materials and guided students in programming concepts.  
+
+---
+<!--
+## 🎓 Education
+- **Bachelor of Software Engineering**, University of Sindh (CGPA: 3.67)  
+- **Intermediate**, Hayat Girls College (91.8%)  
+
+---
+
+## 📜 Certifications
+- Meta Website Developer | Meta Python Developer | Coursera Java OOP & Java Developer  
+- PITP Website Developer & Core Java | Google Project Management Certification  
+- Certiport International Python (NAVTTC) | NAVTTC Advanced Python  
+
+---
+-->
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uroojislamkhan/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=netlify&logoColor=white)](https://www.uroojsportfolio.netlify.app)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uroojislamkhan124@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Urooj-Islam-Khan)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Urooj-Islam-Khan&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urooj-Islam-Khan&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<!--   java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <!--   pyhton  --> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <!--   html  --><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <!--   css  --><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <!--   js  --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <!--   bootstrap  --><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><!--   react.js  --><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <!--  node.js  --><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png" alt="nodejs" width="40" height="40"/> </a>
-  <!--   mysql  --><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><!--   oracle  --><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a><!--   firebase  --><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><!--   android  --><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><!--   figma  --><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><!--   illustrator  --><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urooj-islam-khan&show_icons=true&locale=en&layout=compact" alt="urooj-islam-khan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urooj-islam-khan&show_icons=true&locale=en" alt="urooj-islam-khan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urooj-islam-khan&" alt="urooj-islam-khan" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urooj-Islam-Khan&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
