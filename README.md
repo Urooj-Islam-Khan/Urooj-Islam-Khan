@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Urooj Islam Khan</h1>
-<h3 align="center">AI & Full Stack Developer | Core Java & Python | UI/UX Designer 💻</h3>
+<h3 align="center">AI & Full Stack Developer | Core Java & Python | UI/UX Designer </h3>
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Urooj-Islam-Khan&label=Profile%20views&color=0e75b6&style=flat" height="25" width="130" alt="urooj-islam-khan" />
  <!-- <a href="https://www.buymeacoffee.com/urooj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="Buy Me a Coffee" /></a> -->
